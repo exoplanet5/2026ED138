@@ -50,12 +50,20 @@ in a top-down and an edge-on view.
 single-frame ATLAS limit (median 18.7). CATCH lists 2666 ATLAS frames from
 2016–2026 that contain its predicted position. 952 of them were differenced
 against other-night templates and stacked on the predicted motion. Together
-they detect it at SNR 53, with the stack centroid within 0.1″ of the
-prediction. It is detected in every season from 2019 to 2026, and 37 single
-nights reach SNR ≥ 5. The controls 60″ away are flat. Measured
-magnitudes: c = 19.87 ± 0.04, o = 19.36 ± 0.02 (AB, statistical errors only).
+they detect it at SNR 53, with the stack centroid within 0.23″ of the
+prediction. It is detected in every season from 2019 to 2026, and the
+controls 60″ away are flat. Measured magnitudes: c = 19.87 ± 0.04,
+o = 19.36 ± 0.02 (AB, statistical errors only).
 
 ![ATLAS](figures/2026ED138_atlas.png)
+
+**ATLAS per-season stacks and astrometry.** Each column is one season's
+direct, difference and control stack. Below them are the O−C of 20 clean
+single-night shift-and-stack positions (2022–2026, M22 and W68) against Bill
+Gray's orbit: rms 0.6–0.7″, mean +0.07″, −0.04″ ± 0.13″. These positions add
+nothing to the orbit and have not been submitted to the MPC.
+
+![ATLAS seasons](figures/2026ED138_atlas_seasons.png)
 
 ## Credits
 
